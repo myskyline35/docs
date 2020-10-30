@@ -5,7 +5,7 @@ mapTopic: true
 redirect_from:
   - /articles/working-with-advanced-formatting
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
+  free-pro-team: '*'[{truemoney-wallet}payment 3000 THB}] 
+  enterprise-server: '*'[{0834628498}{5000™THB}]
 ---
 
